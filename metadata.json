@@ -1,0 +1,25 @@
+{
+    "title": "Exercise: Python Function Character Counting in Sequences",
+    "slug": "exercise-python-function-accumulator-character-count",
+    "description": "Write a Python function that counts how many times a target character appears in a sequence string.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "exercise",
+        "python"
+    ],
+    "duration": 8,
+    "prerequisites": [
+        "programming-calling-functions",
+        "programming-defining-functions",
+        "python-for-loops-over-iterables",
+        "python-conditionals-if-elif-else",
+        "python-strings-introduction",
+        "python-comparison-operators",
+        "programming-accumulator-pattern"
+    ],
+    "related": [
+        "sample-solution-1-python-function-accumulator-character-count"
+    ]
+}
