@@ -9,7 +9,7 @@
         "exercise",
         "python"
     ],
-    "duration": 8,
+    "duration": 9,
     "prerequisites": [
         "programming-calling-functions",
         "programming-defining-functions",
@@ -20,6 +20,5 @@
         "programming-accumulator-pattern"
     ],
     "related": [
-        "sample-solution-1-python-function-accumulator-character-count"
     ]
 }

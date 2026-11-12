@@ -15,3 +15,26 @@ print(character_count("A bunch of characters", "a"))
 print(character_count("To be or not to be, that is the question", "e"))
 print(character_count("Hello, World!", "4"))
 ```
+
+# Sample solution
+Click below to reveal the sample solution.
+
+>[!HIDDEN]
+>
+> Within the function we initialise a counter to 0 and then loop through each character in the string. If the character matches the target, we increment the counter.
+> ```py-cell
+> def character_count(string, character):
+>     count = 0
+>     for letter in string:
+>         if letter == character:
+>             count = count + 1
+>     return count
+> ```
+>
+> ## Test the function
+>
+> ```py-cell
+> print(character_count("A bunch of characters", "a"))
+> print(character_count("To be or not to be, that is the question", "e"))
+> print(character_count("Hello, World!", "4"))
+> ```
